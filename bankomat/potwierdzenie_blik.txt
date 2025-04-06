@@ -1,0 +1,3 @@
+Potwierdzenie płatności BLIK. 
+Dnia nastąpiło wypłacanie pieniędzy o kwocie 10000 EUR z bankomatu 
+firmy AtlantusGold, metodą BLIK z konta klienta 1336497558329511.
